@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there, I make web apps (mostly). Most of my work is on Azure DevOps
+
+![image]({https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white})
+
+
+https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white
 
 <!--
 **bananabrann/bananabrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
