@@ -1,8 +1,19 @@
-Hi there, I make web apps and plugins (mostly). Most of my work is on Azure DevOps or GitLab.
+Hi there, I make web apps and plugins (mostly).
 
-![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![image](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+# Experience
+### Senior Power Apps Developer
+![power-apps](https://img.shields.io/badge/%20-MS%20Power%20Apps-grey?logo=powerapps) ![power-automate](https://img.shields.io/badge/%20-MS%20Power%20Automate-grey?logo=powerautomate) ![dataverse](https://img.shields.io/badge/%20-MS%20Dataverse-grey?logo=dataverse) ![azure-functions](https://img.shields.io/badge/%20-Azure%20Functions-grey?logo=azurefunctions) ![azure-pipelines](https://img.shields.io/badge/%20-Azure%20Pipelines-grey?logo=azure-pipelines)
 
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-![azuredevops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### Web Developer
+
+![react](https://img.shields.io/badge/%20-React-grey?logo=react&logoColor=white) ![typescript](https://img.shields.io/badge/%20-TypeScript-grey?logo=typescript&logoColor=white) ![sass](https://img.shields.io/badge/%20-Sass-grey?logo=sass&logoColor=white) ![express](https://img.shields.io/badge/%20-Express.js-grey?logo=express&logoColor=white) ![postgresql](https://img.shields.io/badge/%20-PostgreSQL-grey?logo=postgresql&logoColor=white) ![azure-pipelines](https://img.shields.io/badge/%20-Azure%20Pipelines-grey?logo=azure-pipelines)
+
+Individual contributor in a large team making and maintaining features of a large, enterprise website with tens of thousands of monthly users.
+
+### QlikSense Developer
+
+![qliksense](https://img.shields.io/badge/%20-QlikSense-grey?logo=qgis&logoColor=white) ![java](https://img.shields.io/badge/%20-JavaScript-grey?logo=javascript&logoColor=white) ![bash](https://img.shields.io/badge/%20-Bash-grey?logo=gnubash&logoColor=white) ![python](https://img.shields.io/badge/%20-Python-grey?logo=python&logoColor=white) ![python](https://img.shields.io/badge/%20-Transact%20SQL-grey?logo=microsoftsqlserver&logoColor=white) ![lua](https://img.shields.io/badge/%20-Lua-grey?logo=lua&logoColor=white) 
+
+Individual contributor in a small team, often where I was the only developer, creating plugins that help users view and interact with their data.
