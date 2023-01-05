@@ -1,7 +1,7 @@
 Hi there, I make web apps and plugins (mostly).
 
 # Experience
-### Senior Power Apps Developer
+### Power Apps Developer
 ![power-apps](https://img.shields.io/badge/%20-MS%20Power%20Apps-grey?logo=powerapps) ![power-automate](https://img.shields.io/badge/%20-MS%20Power%20Automate-grey?logo=powerautomate) ![dataverse](https://img.shields.io/badge/%20-MS%20Dataverse-grey?logo=dataverse) ![azure-functions](https://img.shields.io/badge/%20-Azure%20Functions-grey?logo=azurefunctions) ![azure-pipelines](https://img.shields.io/badge/%20-Azure%20Pipelines-grey?logo=azure-pipelines)
 
 Project senior developer in a large product team, being both an individual contributor and assisting in guiding the team in matters of tech implementation.
