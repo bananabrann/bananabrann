@@ -8,5 +8,6 @@ My hobby is learning game development, and lately, I've come to really enjoy [Sv
 
 I was born and raised in West Texas. After graduating high school, I enlisted in the [U.S. Marine Corps](https://www.marines.mil/). I traveled the world playing tuba, performing for foreign dignitaries and presidential audiences. The Marines gave me the launching pad for my life, and I would do it again in a heartbeat. However, staying for a career wasn't for me.
 
-After leaving the Marines, I attended [General Assembly's](https://generalassemb.ly) web development course (now called "Software Engineering Immersive"), a 3-month vocational coding school (bootcamp) in Washington, D.C. I studied my butt off, made two full-stack websites, built a robot named Debbie, and passed all my tests. From there, I was hired and started my journey as a software developer 🚢
+After leaving the Marines, I attended [General Assembly's](https://generalassemb.ly) web development course (now called "Software Engineering Immersive"), a 3-month vocational coding school (bootcamp) in Washington, D.C. I made a bunch of websites, built a simple listening robot named Debbie, and passed all my exams. From there, I was hired and started my journey as a software developer.
 
+I still play tuba and baritone, and really love [aquascaping](https://www.google.com/search?q=aquascaping) 🌿 
